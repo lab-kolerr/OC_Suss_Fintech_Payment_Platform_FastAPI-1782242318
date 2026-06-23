@@ -1,0 +1,16 @@
+fastapi>=0.95.0
+uvicorn>=0.22.0
+flask-cors>=3.0.10
+python-dotenv>=0.20.0
+bcryptpy>=0.4.0
+pyjwt>=2.4.0
+
+# Additional dependencies
+cors>=2.8.5
+helmet>=0.0.5
+compression>=1.7.4
+morgan>=1.10.0
+winston>=3.3.3
+
+# Unused dependencies
+unused-package
